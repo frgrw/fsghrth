@@ -3088,7 +3088,7 @@
   )
 
   (symbol (lib_id "Connector:AVR-ISP-6") (at 210.82 36.83 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fc175ec)
     (property "Reference" "J3" (id 0) (at 219.202 34.3916 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3421,7 +3421,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 26.67 157.48 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fc615f3)
     (property "Reference" "H1" (id 0) (at 29.21 156.3116 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3438,7 +3438,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 26.67 162.56 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fc61f69)
     (property "Reference" "H2" (id 0) (at 29.21 161.3916 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3487,7 +3487,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 26.67 167.64 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fc9a3d1)
     (property "Reference" "H3" (id 0) (at 29.21 166.4716 0)
       (effects (font (size 1.27 1.27)) (justify left))
