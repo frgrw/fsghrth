@@ -4,6 +4,12 @@ This repository contains the schematic and layout files for the [Microsoft Sculp
 
 ## Project Updates
 
+### 2023-01-06
+
+rev5 board with minor updates.
+
+Rearrange the board layout to fix some Design Rule Check failures and extend the board to match the full layout of the original PCB. A few parts were replaced too, due to supply shortages. No functional changes were made.
+
 ### 2021-09-07
 
 The rev4 board design is complete.
