@@ -4,6 +4,12 @@ This repository contains the schematic and layout files for the [Microsoft Sculp
 
 ## Project Updates
 
+### 2023-02-20
+
+rev6 board with USB-C
+
+Also has some adjustments to board layout, and removes RST switch header to reduce BOM
+
 ### 2023-01-06
 
 rev5 board with minor updates.
