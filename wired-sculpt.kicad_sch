@@ -2126,7 +2126,6 @@
     )
   )
 
-
   (junction (at 53.34 132.08) (diameter 0) (color 0 0 0 0)
     (uuid 0fd7ab50-7ffe-4b0e-8466-9ea6f6aec7e0)
   )
@@ -3614,7 +3613,7 @@
     (property "Value" "AlignmentHole" (id 1) (at 134.62 194.183 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm" (id 2) (at 132.08 193.04 0)
+    (property "Footprint" "MountingHole:MountingHole_3mm" (id 2) (at 132.08 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 132.08 193.04 0)
@@ -4634,7 +4633,7 @@
       (reference "H2") (unit 1) (value "MountingHoleSouth") (footprint "MountingHole:MountingHole_2.2mm_M2")
     )
     (path "/00000000-0000-0000-0000-00005fc9a3d1"
-      (reference "H3") (unit 1) (value "AlignmentHole") (footprint "MountingHole:MountingHole_2.7mm")
+      (reference "H3") (unit 1) (value "AlignmentHole") (footprint "MountingHole:MountingHole_3mm")
     )
     (path "/00000000-0000-0000-0000-00005fc1fde4"
       (reference "J1") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A")
