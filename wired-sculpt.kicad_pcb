@@ -2150,7 +2150,7 @@
   (gr_arc (start 148 33.5) (mid 145.5 36) (end 143 33.5) (layer "Edge.Cuts") (width 0.05) (tstamp ea2ea877-1ce1-4cd6-ad19-1da87f51601d))
   (gr_line (start 140 84) (end 140 81.75) (layer "Edge.Cuts") (width 0.05) (tstamp eaa0d51a-ee4e-4d3a-a801-bddb7027e94c))
   (gr_line (start 148 30) (end 148 33.5) (layer "Edge.Cuts") (width 0.05) (tstamp f699494a-77d6-4c73-bd50-29c1c1c5b879))
-  (gr_text "Wired Sculpt 0.6" (at 151.75 82.25) (layer "F.SilkS") (tstamp 9db16341-dac0-4aab-9c62-7d88c111c1ce)
+  (gr_text "Wired Sculpt 0.7" (at 151.75 82.25) (layer "F.SilkS") (tstamp 9db16341-dac0-4aab-9c62-7d88c111c1ce)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
 
