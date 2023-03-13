@@ -2,6 +2,10 @@
 
 This repository contains the schematic and layout files for the [Microsoft Sculpt Wired Conversion Mod](https://chadaustin.me/2021/02/wired-sculpt/).
 
+To get the board manufactured:
+1) Install Kicad & the PCBWay plugin. Use the plugin to start an order, select HASL lead-free if you want lead-free. The other defaults should be fine. Check the box for Assembly service
+2) Upload the BOM (bill of materials) and component placement file. These are generated from Kicad: use Tools > "Generate BOM" from the Schematic Editor, and File > "Fabrication Outputs" > "Component placement (.pos)" from the PCB Editor.
+
 ## Project Updates
 
 ### 2023-02-20
